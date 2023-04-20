@@ -1,0 +1,159 @@
+/* navBar css start */
+        .nav{
+            padding: 0px 20px;
+            height: 80px;
+            background-color: white;
+        }
+        .listItems{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+
+        }
+        .listItems li{
+            list-style-type: none;
+        }
+
+/* navBar css end */
+
+/* Bannner css start */
+        .bannerSection{
+            background-image: url(./IMAGES/bannerimage.png);
+            width: 100%;
+            height: 100vh;
+            background-size: cover;
+        }
+        .bannerHead h1 {
+            /* left: 51.18%;
+            right: 5%;
+            top: 35.97%;
+            bottom: 57.26%; */
+            
+            font-family: 'Qalisso';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 48px;
+            line-height: 48px;
+            
+            /* identical to box height */
+            
+            letter-spacing: 0.15em;
+            
+            color: #FFFFFF;
+            
+        }
+
+        .bannerHead p{
+            left: 51.18%;
+            right: 5%;
+            top: 46.12%;
+            bottom: 45.13%;
+            
+            font-family: 'Gabriela';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 31px;
+            letter-spacing: 0.02em;
+            color: #FFFFFF;
+        }
+
+        .btnContact {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            padding: 10px 20px;
+            gap: 8px;
+            left: 51.18%;
+            right: 40.14%;
+            top: 58.25%;
+            bottom: 36.11%;
+
+            background: #C5B5A6;
+            border-radius: 51px;
+        }
+
+        .bannerPosition{
+            position: absolute;
+            top: 255px;
+            right: 72px;
+            bottom: 408px;
+            left: 737px;
+
+        }
+/* Bannner css end */
+
+/* BannerTwo css start */
+
+
+        .content{
+            padding: 165px 465px 0px 172px;
+        }
+        .content p{
+            width: 812px;
+            height: 153px;
+            left: 168px;
+            top: 167px;
+            
+            font-family: 'Gabriela';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 32px;
+            line-height: 160%;
+            
+            letter-spacing: 0.02em;
+            
+            color: #737373;
+        }
+
+        .bannerTwo{
+            display: flex;
+            flex-direction: column;
+            gap: 80px;
+        }
+
+        .chairImage{
+            position: absolute;
+            right: 0px;
+        }
+
+
+
+/* BannerTwo css end */
+
+/* Footer css Start */
+        .footer{
+            background-color: black;
+            width: 100%;
+            height: 500px;
+            left: 0px;
+            top: 0px;
+            padding: 10px 0px;
+        }
+        .footerContent{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .footerIcons{
+            color: #FFFFFF;
+            gap: 30px;
+        }
+        .line{
+            border-bottom : 2px solid white;
+            width: 90%;
+            margin: auto;
+        }
+        .alignContent{
+                display: flex;
+                flex-direction: column;
+                gap: 40px;
+        }
+
+        .footerCopyRight p{
+            color: #FFFFFF;
+        }
+/* Footer css Start */
+
