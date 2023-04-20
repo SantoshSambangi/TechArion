@@ -33,7 +33,7 @@
             font-family: 'Qalisso';
             font-style: normal;
             font-weight: 400;
-            font-size: 48px;
+            font-size: 38px;
             line-height: 48px;
             
             /* identical to box height */
@@ -79,7 +79,10 @@
             top: 255px;
             right: 72px;
             bottom: 408px;
-            left: 737px;
+            left: 650px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
 
         }
 /* Bannner css end */
@@ -106,16 +109,24 @@
             
             color: #737373;
         }
+        .footerContent{
+            color: #FFFFFF;
+        }
 
         .bannerTwo{
             display: flex;
             flex-direction: column;
-            gap: 80px;
+            gap: 70px;
         }
 
         .chairImage{
             position: absolute;
             right: 0px;
+            top: 100px;
+        }
+
+        .bannerTwoPosition{
+            position: relative;
         }
 
 
@@ -131,15 +142,22 @@
             top: 0px;
             padding: 10px 0px;
         }
+
+        .footerLogo{
+            background-image: url(./IMAGES/Vector.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            padding: 30px;
+        }
         .footerContent{
             display: flex;
             flex-direction: column;
-            gap: 10px;
+            gap: 20px;
         }
 
         .footerIcons{
             color: #FFFFFF;
-            gap: 30px;
+            gap: 40px;
         }
         .line{
             border-bottom : 2px solid white;
@@ -149,7 +167,7 @@
         .alignContent{
                 display: flex;
                 flex-direction: column;
-                gap: 40px;
+                gap: 30px;
         }
 
         .footerCopyRight p{

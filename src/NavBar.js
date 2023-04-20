@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './IMAGES/image1.png';
 import './figma.css';
-import banner from './IMAGES/bannerimage.png';
+//import banner from './IMAGES/bannerimage.png';
 
 const NavBar = () => {
   return (
@@ -11,7 +11,7 @@ const NavBar = () => {
                 <li><a>LOG IN</a></li>
                 <li><a>RESERVATION</a></li>
                 <li><a>PRIVATE PARTIES</a></li>
-                <li><a><img src={logo}/></a></li>
+                <li><a><img src={logo} width={90}/></a></li>
                 <li><a>EVENTS</a></li>
                 <li><a>CONTACT US</a></li>
                 <li><a>ABOUT US</a></li>

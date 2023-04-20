@@ -17,10 +17,10 @@ const Footer = () => {
             </div>
 
             <div className='footerContent'>
-                <h3><a href='#'>Dessert.Bar.Kitchen</a></h3>
-                <p><a href='#'>+040 2355 7261</a></p>
-                <p><a href='#'>savory@qodeinteractive.com</a></p>
-                <p><a href='#'>Plot No.8-2, 293/82/A/161, Rd Number 13, Jubilee Hills, Hyderabad, Telangana 500033</a></p>
+                <h3>Dessert.Bar.Kitchen</h3>
+                <p>+040 2355 7261</p>
+                <p>savory@qodeinteractive.com</p>
+                <p>Plot No.8-2, 293/82/A/161, Rd Number 13, Jubilee Hills, Hyderabad, Telangana 500033</p>
             </div>
 
             <div className='footerIcons'>
