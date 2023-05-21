@@ -1,0 +1,59 @@
+[
+    {
+        "id": "1",
+        "name":"Hyderabad"
+    },
+    {
+        "id": "2",
+        "name":"Mumbai"
+    },
+    {
+        "id": "3",
+        "name":"Kolkatha"
+    },
+    {
+        "id": "4",
+        "name":"Indore"
+    },
+    {
+        "id": "5",
+        "name":"Ahmadabadh"
+    },
+    {
+        "id": "6",
+        "name":"Lacknow"
+    },
+    {
+        "id": "7",
+        "name":"Delhi"
+    },
+    {
+        "id": "8",
+        "name":"Banglore"
+    },
+    {
+        "id": "9",
+        "name":"Chennai"
+    },
+    {
+        "id": "10",
+        "name":"Vizag"
+    },
+    {
+        "id": "11",
+        "name":"Vizianagaram"
+    },
+    {
+        "id": "12",
+        "name":"Uttarpradesh"
+    },
+    {
+        "id": "13",
+        "name":"Madyapradesh"
+    },
+    {
+        "id": "14",
+        "name":"Jammu"
+    }
+    
+]
